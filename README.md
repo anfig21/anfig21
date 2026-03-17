@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Antonio. I am a Postdoctoral Reseracher @ ETSIST @ Universidad Politécnica de Madrid, UPM!
+I am Antonio. I am a Postdoctoral Researcher @ ETSIST @ Universidad Politécnica de Madrid, UPM!
 
 I am often busy with...
 
