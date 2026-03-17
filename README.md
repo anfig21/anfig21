@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am Antonio, a PhD Candidate @ Acoustic Technology Group @ DTU!
+I am Antonio. I am a Postdoctoral Reseracher @ ETSIST @ Universidad Politécnica de Madrid, UPM!
 
-I am often involved in...
+I am often busy with...
 
-  :point_right: large-scale Room Impulse Response reconstruction,
+  :point_right: large-scale sound field reconstruction, analysis and visualisation,
 
-  :point_right: Sound Field Analysis,
+  :point_right: acoustic models implemented through Bayesian inference,
 
-  :point_right: Navigable or 6DoF Reproduction.
+  :point_right: Navigable or 6DoF audio reproduction.
 
-You will mainly find MATLAB code over here, mostly related to publications that you can find on my [webpage](https://orbit.dtu.dk/en/persons/antonio-andr%C3%A9s-figueroa-dur%C3%A1n).
+In my repos, you will mainly find MATLAB & Python code related to publications available [here](https://scholar.google.com/citations?user=3GDc4_EAAAAJ&hl=en).
